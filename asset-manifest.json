@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/makarpustovalov.io/moneycalc/static/css/main.9e034465.chunk.css",
+    "main.js": "/makarpustovalov.io/moneycalc/static/js/main.4e92ccb7.chunk.js",
+    "main.js.map": "/makarpustovalov.io/moneycalc/static/js/main.4e92ccb7.chunk.js.map",
+    "runtime-main.js": "/makarpustovalov.io/moneycalc/static/js/runtime-main.add591c6.js",
+    "runtime-main.js.map": "/makarpustovalov.io/moneycalc/static/js/runtime-main.add591c6.js.map",
+    "static/js/2.177efff1.chunk.js": "/makarpustovalov.io/moneycalc/static/js/2.177efff1.chunk.js",
+    "static/js/2.177efff1.chunk.js.map": "/makarpustovalov.io/moneycalc/static/js/2.177efff1.chunk.js.map",
+    "index.html": "/makarpustovalov.io/moneycalc/index.html",
+    "precache-manifest.eacc7c2621a732862169c55596a040ab.js": "/makarpustovalov.io/moneycalc/precache-manifest.eacc7c2621a732862169c55596a040ab.js",
+    "service-worker.js": "/makarpustovalov.io/moneycalc/service-worker.js",
+    "static/css/main.9e034465.chunk.css.map": "/makarpustovalov.io/moneycalc/static/css/main.9e034465.chunk.css.map",
+    "static/js/2.177efff1.chunk.js.LICENSE.txt": "/makarpustovalov.io/moneycalc/static/js/2.177efff1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.add591c6.js",
+    "static/js/2.177efff1.chunk.js",
+    "static/css/main.9e034465.chunk.css",
+    "static/js/main.4e92ccb7.chunk.js"
+  ]
+}
